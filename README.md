@@ -1,4 +1,18 @@
-## Hi there 👋
+# 👋 Hi, I'm David
+
+💻 **Software Engineer**  
+I build **scalable backends** and add a touch of neat frontend when needed.  
+Always curious, always improving — currently exploring **cloud, DevOps, and modern tools**.  
+
+---
+
+### 🛠️ Tech & Tools
+🐍 Python | 🌐 Flask & Django | 🎨 HTML, CSS, JS | 🗄️ SQL (SQLite, PostgreSQL) | ⚡ Git & Docker | ☁️ AWS  
+
+---
+
+✨ *Code. Learn. Improve. Repeat.*  
+
 
 <!--
 **tanimowodavid/tanimowodavid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
