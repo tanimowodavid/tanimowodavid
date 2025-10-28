@@ -7,7 +7,6 @@ Always curious, always improving — currently exploring **cloud, DevOps, and mo
 ---
 ![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanimowodavid&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight)
-[![GitHub Streak](https://streak-stats.demolab.com?user=tanimowodavid&theme=tokyonight)](https://git.io/streak-stats)
 
 ### 🛠️ Tech & Tools
 🐍 Python | 🌐 Flask & Django | 🎨 HTML, CSS, JS | 🗄️ SQL (SQLite, PostgreSQL) | ⚡ Git & Docker | ☁️ AWS  
