@@ -5,9 +5,8 @@ I build **scalable backends** and add a touch of neat frontend when needed.
 Always curious, always improving — currently exploring **cloud, DevOps, and modern tools**.  
 
 ---
-![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=tanimowodavid&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanimowodavid&theme=onedark&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=tanimowodavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 ### 🛠️ Tech & Tools
