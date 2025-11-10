@@ -9,8 +9,10 @@ Always curious, always improving — currently exploring **cloud, DevOps, and mo
 [![trophy](https://github-profile-trophy.vercel.app/?username=tanimowodavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-### 🛠️ Tech & Tools
-🐍 Python | 🌐 Flask & Django | 🎨 HTML, CSS, JS | 🗄️ SQL (SQLite, PostgreSQL) | ⚡ Git & Docker | ☁️ AWS  
+### 🛠️ Skill
+- NodeJS
+- Django / Flask
+- Python
 
 ---
 
