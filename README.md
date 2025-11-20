@@ -1,22 +1,9 @@
-# 👋 Hi, I'm David
-
-💻 **Software Engineer**  
-I build **scalable backends** and add a touch of neat frontend when needed.  
-Always curious, always improving — currently exploring **cloud, DevOps, and modern tools**.  
-
----
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight)
-[![trophy](https://github-profile-trophy.vercel.app/?username=tanimowodavid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
-
-
-### 🛠️ Skill
-- NodeJS
-- Django / Flask
-- Python
-
----
-
-✨ *Code. Learn. Improve. Repeat.*  
+- 👋 Hi, I'm Tanimowo David
+- 💬 Ask me about backend development, frontend, AI and Automation
+- 💻 My favourite tech stack are django, nextjs and python
+- 🌱 I’m currently learning system design and scalable backend architecture.
+- 😄 Fun fact: I am a legend in fast-pased video games and puzzles
+- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tanimowodavid), [WhatsApp](https://wa.me/+2349130739626), [Website](tanimowodavid.com), [Email](mailto:davidtanimowo01@gmail.com)
 
 
 <!--
@@ -30,6 +17,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
