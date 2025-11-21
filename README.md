@@ -3,7 +3,7 @@
 \- 💻 My favourite tech stack are django, nextjs and python  
 \- 🌱 I’m currently learning system design and scalable backend architecture  
 \- 😄 Fun fact: I am a legend in fast-pased video games and puzzles  
-\- 📫 How to reach me: [LinkedIn](www.linkedin.com/in/tanimowodavid), [WhatsApp](https://wa.me/+2349130739626), [Website](tanimowodavid.com), [Email](mailto:davidtanimowo01@gmail.com)
+\- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/tanimowodavid), [WhatsApp](https://wa.me/+2349130739626), [Website](https://tanimowodavid.com), [Email](mailto:davidtanimowo01@gmail.com)
 
 
 <!--
