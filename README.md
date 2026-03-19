@@ -14,7 +14,6 @@ and understanding how things work under the hood.
 <p align="center">
 ⚙️ Backend & Systems<br>
 🧠 Exploring Generative AI<br>
-🚀 Learning DevOps<br>
 🛠️ Build → Break → Fix → Repeat
 </p>
 
@@ -35,10 +34,8 @@ and understanding how things work under the hood.
 
 ---
 
-## 📊 LANGUAGE STATS
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight" alt="top language"/>
 </p>
 
 
@@ -47,28 +44,16 @@ and understanding how things work under the hood.
 ## 🐍 CONTRIBUTION GRAPH
 
 <p align="center">
-  <img src="https://github.com/tanimowodavid/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 ## ⚡ Dev Philosophy
-
-
-Build → Break → Fix → Improve → Repeat
-
 
 - Learn by building
 - Prefer real projects over tutorials
 - Understand the fundamentals
 - Keep the stack simple
 - Finish what you start
-
----
-
-## 📊 Top Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 ## 🌐 Contact
