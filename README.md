@@ -40,13 +40,7 @@ and understanding how things work under the hood.
 
 
 ---
-
-## 🐍 CONTRIBUTION GRAPH
-
-<p align="center">
-  <img src="https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg" />
-</p>
-
+![snake gif](https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg)
 ## ⚡ Dev Philosophy
 
 - Learn by building
