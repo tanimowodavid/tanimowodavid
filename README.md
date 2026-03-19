@@ -18,37 +18,37 @@ and understanding how things work under the hood.
 🛠️ Build → Break → Fix → Repeat
 </p>
 
-## 🧰 Tech Stack
+---
+## 🧰 STACK / TOOLCHAIN
 
-### Languages
-![Python](https://img.shields.io/badge/python-000?style=for-the-badge&logo=python)
-![JavaScript](https://img.shields.io/badge/javascript-000?style=for-the-badge&logo=javascript)
-![TypeScript](https://img.shields.io/badge/typescript-000?style=for-the-badge&logo=typescript)
-![HTML](https://img.shields.io/badge/html-000?style=for-the-badge&logo=html5)
-![CSS](https://img.shields.io/badge/css-000?style=for-the-badge&logo=css3)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,js,ts,django,fastapi,flask,nodejs,nextjs" />
+</p>
 
-### Backend
-![Django](https://img.shields.io/badge/django-000?style=for-the-badge&logo=django)
-![FastAPI](https://img.shields.io/badge/fastapi-000?style=for-the-badge&logo=fastapi)
-![Flask](https://img.shields.io/badge/flask-000?style=for-the-badge&logo=flask)
-![Node.js](https://img.shields.io/badge/node-000?style=for-the-badge&logo=node.js)
-![Next.js](https://img.shields.io/badge/nextjs-000?style=for-the-badge&logo=next.js)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=postgres,redis,sqlite,docker,linux,nginx,git,github" />
+</p>
 
-### Database
-![PostgreSQL](https://img.shields.io/badge/postgresql-000?style=for-the-badge&logo=postgresql)
-![SQLite](https://img.shields.io/badge/sqlite-000?style=for-the-badge&logo=sqlite)
-![Redis](https://img.shields.io/badge/redis-000?style=for-the-badge&logo=redis)
-
-### Dev / Tools
-![Docker](https://img.shields.io/badge/docker-000?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/git-000?style=for-the-badge&logo=git)
-![GitHub](https://img.shields.io/badge/github-000?style=for-the-badge&logo=github)
-![Linux](https://img.shields.io/badge/linux-000?style=for-the-badge&logo=linux)
-![CI/CD](https://img.shields.io/badge/ci%2Fcd-000?style=for-the-badge&logo=githubactions)
-![VSCode](https://img.shields.io/badge/vscode-000?style=for-the-badge&logo=visualstudiocode)
-![Cursor](https://img.shields.io/badge/cursor-000?style=for-the-badge)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,bash,aws,arduino" />
+</p>
 
 ---
+
+## 📊 LANGUAGE STATS
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tanimowodavid&layout=compact&theme=tokyonight" />
+</p>
+
+
+---
+
+## 🐍 CONTRIBUTION GRAPH
+
+<p align="center">
+  <img src="https://github.com/tanimowodavid/blob/output/github-contribution-grid-snake.svg" />
+</p>
 
 ## ⚡ Dev Philosophy
 
