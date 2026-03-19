@@ -17,8 +17,7 @@ and understanding how things work under the hood.
 🛠️ Build → Break → Fix → Repeat
 </p>
 
----
-## 🧰 STACK / TOOLCHAIN
+## 🧰 My favorite tools and technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,django,fastapi,flask,nodejs,nextjs" />
