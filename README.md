@@ -1,6 +1,6 @@
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tanimowo+David;Software+Engineer;Backend+%2F+Systems;Building+products+from+scratch" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanimowo+David;Software+Engineer;Backend+%2F+Systems+Focused;Building+products+from+scratch" />
 </p>
 
 ---
@@ -12,11 +12,11 @@ and understanding how things work under the hood.
 </p>
 
 <p align="center">
-⚙️ Backend & Systems<br>
-🧠 Exploring Generative AI<br>
+⚙️ Backend & Systems Focused<br>
+🧠 Currently Exploring Generative AI<br>
 🛠️ Build → Break → Fix → Repeat
 </p>
-
+   
 ## 🧰 My favorite tools and technologies
 
 <p align="center">
@@ -40,6 +40,7 @@ and understanding how things work under the hood.
 
 ---
 ![snake gif](https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg)
+
 ## ⚡ Dev Philosophy
 
 - Learn by building
