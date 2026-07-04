@@ -38,13 +38,17 @@
 
 ---
 
-## 🐍 CONTRIBUTION GRAPH
+## CONTRIBUTION GRAPH
 
 <!-- ![snake gif](https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center">
-  <!-- Snake Game Animation -->
-  <img src="https://raw.githubusercontent.com/tanimowodavid/tanimowodavid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  <picture>
+    <!-- Shows when the user's system/GitHub is in dark mode -->
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tanimowodavid/tanimowodavid/output/github-contribution-grid-snake-dark.svg">
+    <!-- Fallback/Light mode image -->
+    <img src="https://raw.githubusercontent.com/tanimowodavid/tanimowodavid/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
+  </picture>
 </p>
 
 ---
