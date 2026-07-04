@@ -1,18 +1,17 @@
 <!-- Typing intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Tanimowo+David;Software+Engineer;Backend+%2F+Systems;Building+products+from+scratch" />
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=00F7FF&center=true&vCenter=true&width=600&lines=Hi+I'm+Tanimowo+David;Software+Engineer;Backend+%2F+Systems+Focused;Building+products+from+scratch" />
 </p>
 
 ---
 
 <p align="center">
-⚙️ Backend & Systems<br>
-🧠 Exploring Generative AI<br>
+⚙️ Backend & Systems Focused<br>
+🧠 Currently Exploring Generative AI<br>
 🛠️ Build → Break → Fix → Repeat
 </p>
-
-<!-- ---
-## 🧰 STACK / TOOLCHAIN
+   
+<!-- ## 🧰 My favorite tools and technologies
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,js,ts,django,fastapi,flask,nodejs,nextjs" />
@@ -41,9 +40,7 @@
 
 ## 🐍 CONTRIBUTION GRAPH
 
-<!-- <p align="center">
-  <img src="https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg" />
-</p> -->
+<!-- ![snake gif](https://github.com/tanimowodavid/tanimowodavid/blob/output/github-contribution-grid-snake.svg) -->
 
 <p align="center">
   <!-- Snake Game Animation -->
